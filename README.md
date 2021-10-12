@@ -1,7 +1,3 @@
-# Domi.m3u
-Lista ampliada
-# Lista.m3u
-Canales Dominicanos
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/comteco.com.bo.guide.xml,https://iptv-
 org.github.io/epg/guides/mi.tv.guide.xml,https://iptv-org.github.io/epg/guides/programacion-tv.elpais.com.guide.xml"
 
